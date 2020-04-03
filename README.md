@@ -13,13 +13,14 @@ Develop a clear visualization demonstrating the number of confirmed SARS-CoV-2 c
 
 * County break down is from the [News and Observer](https://www.newsobserver.com/news/local/article241168731.html) 
 * Deaths are from [1point3acres](https://coronavirus.1point3acres.com/en)
-* Testing data is from [The COVID-19 Tracking Project](https://covidtracking.com/data/state/north-carolina/#history)
+* Testing data are from [The COVID-19 Tracking Project](https://covidtracking.com/data/state/north-carolina/#history)
+* Demographic data are from the the US Census
 
 #### Visualizations
 
-GIF showing cases in North Carolina by county from March 3, 2020 to March 30, 2020 
+GIF showing cases in North Carolina by county from March 3, 2020 to April 2, 2020 
 
-![Visualization GIF](NC-Visualization/Daily-GIFS/2020-04-01.gif)
+![Visualization GIF](NC-Visualization/Daily-GIFS/2020-04-02.gif)
 
 ## Contributors
 
