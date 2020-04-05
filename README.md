@@ -18,9 +18,9 @@ Develop a clear visualization demonstrating the number of confirmed SARS-CoV-2 c
 
 #### Visualizations
 
-GIF showing cases in North Carolina by county from March 3, 2020 to April 2, 2020 
+GIF showing cases in North Carolina by county from March 3, 2020 to April 4, 2020 
 
-![Visualization GIF](NC-Visualization/Daily-GIFS/2020-04-04.gif)
+![Visualization GIF](NC-Visualization/Daily-GIFS/2020-04-05.gif)
 
 ## Contributors
 
