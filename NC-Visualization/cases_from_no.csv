@@ -1,4 +1,5 @@
 ﻿County,Date,Cases
+Alamance,4/6/20,1
 Alamance,4/5/20,1
 Alamance,4/4/20,2
 Alamance,4/3/20,3
@@ -28,6 +29,7 @@ Bertie,4/4/20,1
 Bertie,3/30/20,3
 Bertie,3/24/20,3
 Bladen,4/2/20,1
+Brunswick,4/6/20,2
 Brunswick,4/4/20,1
 Brunswick,4/2/20,1
 Brunswick,4/1/20,8
@@ -51,6 +53,7 @@ Buncombe,3/24/20,4
 Buncombe,3/23/20,5
 Buncombe,3/22/20,2
 Buncombe,3/21/20,1
+Burke,4/6/20,7
 Burke,4/4/20,5
 Burke,4/3/20,4
 Burke,4/2/20,1
@@ -60,6 +63,7 @@ Burke,3/30/20,1
 Burke,3/29/20,1
 Burke,3/28/20,2
 Burke,3/24/20,1
+Cabarrus,4/6/20,7
 Cabarrus,4/4/20,11
 Cabarrus,4/3/20,1
 Cabarrus,4/2/20,5
@@ -78,6 +82,7 @@ Caldwell,4/4/20,6
 Caldwell,4/3/20,2
 Caldwell,3/25/20,2
 Caldwell,3/24/20,1
+Carteret,4/6/20,1
 Carteret,4/3/20,1
 Carteret,4/1/20,3
 Carteret,3/31/20,2
@@ -88,6 +93,7 @@ Carteret,3/21/20,3
 Carteret,3/20/20,2
 Caswell,4/4/20,1
 Caswell,3/29/20,1
+Catawba,4/6/20,1
 Catawba,4/5/20,2
 Catawba,4/4/20,2
 Catawba,4/3/20,4
@@ -110,6 +116,7 @@ Chatham,3/26/20,3
 Chatham,3/25/20,3
 Chatham,3/17/20,2
 Chatham,3/6/20,1
+Cherokee,4/5/20,1
 Cherokee,3/31/20,2
 Cherokee,3/30/20,1
 Cherokee,3/29/20,2
@@ -118,6 +125,7 @@ Cherokee,3/20/20,3
 Chowan,4/3/20,1
 Clay,4/1/20,1
 Clay,3/31/20,2
+Cleveland,4/6/20,2
 Cleveland,4/4/20,3
 Cleveland,4/3/20,4
 Cleveland,4/2/20,3
@@ -125,12 +133,14 @@ Cleveland,3/31/20,1
 Cleveland,3/29/20,1
 Cleveland,3/28/20,2
 Cleveland,3/25/20,2
+Columbus,4/6/20,3
 Columbus,4/5/20,3
 Columbus,4/4/20,1
 Columbus,4/3/20,1
 Columbus,4/2/20,1
 Columbus,3/29/20,1
 Columbus,3/28/20,2
+Craven,4/6/20,2
 Craven,4/5/20,1
 Craven,4/4/20,1
 Craven,4/3/20,3
@@ -141,6 +151,7 @@ Craven,3/28/20,1
 Craven,3/24/20,1
 Craven,3/20/20,1
 Craven,3/14/20,1
+Cumberland,4/5/20,3
 Cumberland,4/4/20,3
 Cumberland,4/3/20,8
 Cumberland,4/2/20,7
@@ -158,6 +169,7 @@ Currituck,3/29/20,1
 Dare,4/3/20,1
 Dare,4/2/20,1
 Dare,3/25/20,1
+Davidson,4/6/20,6
 Davidson,4/5/20,4
 Davidson,4/4/20,2
 Davidson,4/3/20,10
@@ -169,6 +181,7 @@ Davidson,3/28/20,10
 Davidson,3/27/20,1
 Davidson,3/23/20,2
 Davidson,3/19/20,1
+Davie,4/6/20,1
 Davie,4/4/20,4
 Davie,3/30/20,6
 Davie,3/29/20,2
@@ -180,7 +193,8 @@ Duplin,4/3/20,1
 Duplin,4/2/20,1
 Duplin,4/1/20,1
 Duplin,3/24/20,1
-Durham,4/5/20,4
+Durham,4/6/20,3
+Durham,4/5/20,6
 Durham,4/4/20,10
 Durham,4/3/20,17
 Durham,4/2/20,14
@@ -204,6 +218,7 @@ Edgecombe,4/4/20,1
 Edgecombe,4/2/20,1
 Edgecombe,3/31/20,2
 Edgecombe,3/27/20,1
+Forsyth,4/6/20,10
 Forsyth,4/5/20,1
 Forsyth,4/4/20,8
 Forsyth,4/3/20,23
@@ -219,6 +234,7 @@ Forsyth,3/21/20,1
 Forsyth,3/20/20,3
 Forsyth,3/19/20,2
 Forsyth,3/12/20,2
+Franklin,4/6/20,1
 Franklin,4/4/20,1
 Franklin,4/3/20,1
 Franklin,4/2/20,1
@@ -226,6 +242,7 @@ Franklin,3/31/20,5
 Franklin,3/30/20,1
 Franklin,3/24/20,1
 Franklin,3/20/20,4
+Gaston,4/5/20,5
 Gaston,4/4/20,4
 Gaston,4/3/20,4
 Gaston,4/2/20,8
@@ -238,6 +255,7 @@ Gaston,3/23/20,1
 Gaston,3/22/20,2
 Gaston,3/20/20,1
 Gates,4/1/20,1
+Granville,4/6/20,33
 Granville,4/5/20,13
 Granville,4/3/20,3
 Granville,4/2/20,3
@@ -248,9 +266,11 @@ Granville,3/29/20,2
 Granville,3/28/20,1
 Granville,3/27/20,2
 Granville,3/20/20,1
+Greene,4/6/20,2
 Greene,4/4/20,1
 Greene,4/2/20,2
 Greene,3/27/20,3
+Guilford,4/6/20,8
 Guilford,4/5/20,2
 Guilford,4/4/20,6
 Guilford,4/3/20,14
@@ -276,6 +296,7 @@ Halifax,3/31/20,1
 Halifax,3/30/20,1
 Halifax,3/28/20,1
 Halifax,3/27/20,1
+Harnett,4/6/20,6
 Harnett,4/5/20,1
 Harnett,4/3/20,5
 Harnett,4/2/20,1
@@ -293,6 +314,7 @@ Harnett,3/14/20,1
 Harnett,3/13/20,1
 Haywood,4/5/20,1
 Haywood,4/2/20,2
+Henderson,4/6/20,1
 Henderson,4/5/20,25
 Henderson,4/4/20,3
 Henderson,4/2/20,4
@@ -307,6 +329,7 @@ Henderson,3/21/20,1
 Hertford,3/31/20,1
 Hertford,3/26/20,2
 Hertford,3/24/20,1
+Hoke,4/6/20,1
 Hoke,4/4/20,1
 Hoke,4/3/20,2
 Hoke,4/2/20,3
@@ -314,6 +337,7 @@ Hoke,3/31/20,1
 Hoke,3/28/20,1
 Hoke,3/24/20,1
 Hoke,3/18/20,1
+Iredell,4/6/20,8
 Iredell,4/5/20,2
 Iredell,4/3/20,6
 Iredell,4/2/20,11
@@ -330,6 +354,7 @@ Iredell,3/18/20,1
 Iredell,3/16/20,1
 Jackson,4/2/20,1
 Jackson,3/24/20,1
+Johnston,4/6/20,4
 Johnston,4/4/20,8
 Johnston,4/3/20,5
 Johnston,4/2/20,3
@@ -346,6 +371,7 @@ Johnston,3/12/20,1
 Lee,3/31/20,1
 Lee,3/27/20,1
 Lee,3/20/20,1
+Lenoir,4/6/20,1
 Lenoir,4/3/20,2
 Lenoir,4/2/20,2
 Lenoir,3/26/20,2
@@ -367,7 +393,8 @@ McDowell,3/30/20,2
 McDowell,3/27/20,2
 McDowell,3/25/20,1
 McDowell,3/24/20,2
-Mecklenburg,4/5/20,14
+Mecklenburg,4/6/20,68
+Mecklenburg,4/5/20,15
 Mecklenburg,4/4/20,49
 Mecklenburg,4/3/20,68
 Mecklenburg,4/2/20,68
@@ -416,6 +443,7 @@ Nash,3/31/20,7
 Nash,3/24/20,1
 Nash,3/22/20,2
 Nash,3/21/20,1
+New Hanover,4/5/20,3
 New Hanover,4/4/20,2
 New Hanover,4/2/20,3
 New Hanover,4/1/20,5
@@ -429,7 +457,8 @@ New Hanover,3/25/20,5
 New Hanover,3/23/20,5
 New Hanover,3/21/20,3
 New Hanover,3/18/20,1
-Northampton,4/5/20,2
+Northampton,4/6/20,2
+Northampton,4/5/20,4
 Northampton,4/4/20,2
 Northampton,4/3/20,2
 Northampton,4/2/20,3
@@ -439,7 +468,7 @@ Northampton,3/29/20,1
 Northampton,3/28/20,21
 Northampton,3/26/20,3
 Northampton,3/23/20,1
-Onslow,4/5/20,1
+Onslow,4/5/20,4
 Onslow,4/4/20,5
 Onslow,4/3/20,3
 Onslow,4/2/20,1
@@ -449,6 +478,7 @@ Onslow,3/30/20,2
 Onslow,3/25/20,1
 Onslow,3/21/20,2
 Onslow,3/12/20,1
+Orange,4/6/20,15
 Orange,4/4/20,8
 Orange,4/3/20,7
 Orange,4/1/20,3
@@ -470,6 +500,7 @@ Pasquotank,4/2/20,3
 Pasquotank,3/31/20,2
 Pasquotank,3/29/20,1
 Pasquotank,3/19/20,1
+Pender,4/6/20,1
 Pender,4/3/20,1
 Perquimans,4/5/20,1
 Perquimans,3/28/20,1
@@ -492,10 +523,12 @@ Pitt,3/24/20,1
 Pitt,3/22/20,2
 Pitt,3/20/20,1
 Pitt,3/19/20,1
+Polk,4/6/20,2
 Polk,4/2/20,2
 Polk,3/31/20,2
 Polk,3/28/20,1
 Polk,3/26/20,1
+Randolph,4/6/20,4
 Randolph,4/5/20,3
 Randolph,4/3/20,7
 Randolph,4/2/20,2
@@ -505,6 +538,7 @@ Randolph,3/28/20,4
 Randolph,3/26/20,2
 Randolph,3/25/20,1
 Randolph,3/23/20,2
+Richmond,4/6/20,1
 Robeson,4/4/20,2
 Robeson,4/1/20,1
 Robeson,3/24/20,1
@@ -513,6 +547,7 @@ Rockingham,4/5/20,1
 Rockingham,4/4/20,2
 Rockingham,4/3/20,1
 Rockingham,4/2/20,2
+Rowan,4/6/20,5
 Rowan,4/4/20,2
 Rowan,4/3/20,7
 Rowan,4/2/20,7
@@ -524,20 +559,24 @@ Rowan,3/28/20,2
 Rowan,3/26/20,6
 Rowan,3/24/20,4
 Rowan,3/20/20,2
+Rutherford,4/6/20,2
 Rutherford,4/5/20,3
 Rutherford,4/3/20,3
 Rutherford,4/2/20,2
 Rutherford,4/1/20,3
 Rutherford,3/31/20,2
 Rutherford,3/30/20,2
+Sampson,4/5/20,1
 Sampson,4/3/20,1
 Sampson,3/16/20,1
 Scotland,3/29/20,1
 Scotland,3/20/20,1
+Stanly,4/6/20,1
 Stanly,4/3/20,2
 Stanly,3/29/20,3
 Stanly,3/27/20,1
 Stanly,3/23/20,1
+Stokes,4/6/20,1
 Stokes,4/5/20,1
 Stokes,4/4/20,1
 Stokes,4/3/20,2
@@ -550,6 +589,8 @@ Transylvania,3/31/20,2
 Transylvania,3/27/20,1
 Transylvania,3/25/20,1
 Transylvania,3/24/20,1
+Union,4/6/20,3
+Union,4/5/20,5
 Union,4/4/20,4
 Union,4/3/20,4
 Union,4/2/20,7
@@ -575,7 +616,8 @@ Vance,3/31/20,1
 Vance,3/28/20,1
 Vance,3/24/20,1
 Vance,3/23/20,1
-Wake,4/5/20,4
+Wake,4/6/20,6
+Wake,4/5/20,7
 Wake,4/4/20,22
 Wake,4/3/20,32
 Wake,4/2/20,19
@@ -604,6 +646,7 @@ Wake,3/9/20,6
 Wake,3/3/20,1
 Warren,4/4/20,1
 Warren,4/3/20,1
+Washington,4/6/20,2
 Washington,4/5/20,1
 Washington,4/3/20,1
 Washington,4/1/20,1
@@ -614,6 +657,7 @@ Watauga,3/27/20,2
 Watauga,3/24/20,1
 Watauga,3/18/20,1
 Watauga,3/15/20,1
+Wayne,4/6/20,8
 Wayne,4/5/20,3
 Wayne,4/3/20,5
 Wayne,4/2/20,2
@@ -624,6 +668,7 @@ Wayne,3/24/20,1
 Wayne,3/13/20,1
 Wilkes,4/2/20,2
 Wilkes,3/30/20,2
+Wilson,4/6/20,1
 Wilson,4/4/20,7
 Wilson,4/3/20,1
 Wilson,4/2/20,5
